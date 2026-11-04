@@ -1,0 +1,33 @@
+# Byte-compiled Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+
+# Browser Profiles & Session State
+bot_profile/
+**/bot_profile/
+database/Current_Task.json
+vo_progress.json
+
+# Heavy Neural Model Weights & Wheels (>100MB)
+*.pth
+*.pt
+*.onnx
+*.whl
+engines/Kokoro_Offline_Core/
+
+# Media Assets & Render Outputs
+output/
+alerts/
+*.mp4
+*.mp3
+*.wav
+*.avi
+*.mov
+*.png
+*.jpg

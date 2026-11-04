@@ -1,0 +1,5 @@
+# Example Documentary Topic Queue (Placeholder Format)
+# Format: [STATUS] Topic Title | Historical Era | Target Scene Count
+[PENDING] Example Historical Topic A | Classical Antiquity | 60
+[PENDING] Example Historical Topic B | Late Bronze Age | 55
+[COMPLETED] Example Historical Topic C | Early Modern Period | 62
